@@ -36,7 +36,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/quick-chat.git
+   git clone https://github.com/NitinGautam05/Quick-Chat.git
    ```
 2. **Open in Android Studio**:
    - Navigate to the project directory and open the project in Android Studio.
